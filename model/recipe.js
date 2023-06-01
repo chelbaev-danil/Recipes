@@ -10,7 +10,7 @@ function getdata(callback, name){
         db.close()
     })
 }
-
+ 
 module.exports = {
     getdata 
 }
